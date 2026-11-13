@@ -1,0 +1,68 @@
+/* Theme check (cyber-versicherungs-check.de), Mockup-Runde 1 vom 13.11.2026: cremeweiß, Serifen, Hakenliste, Aktionsfarbe Ziegelrot nur auf Buttons.
+   Quelle: _design/theme-css-runde1/mockup-*.css, Präfix entfernt, Tokens nach :root; Mobilregeln aus mockup-mobil.css.
+   Navigation: statt Ausblenden einzelner Links scrollt die Navigation einzeilig (der Generator hat mehr als vier Links). */
+:root{--bg:#FBF7EE;--surface:#FFFDF7;--ink:#2A2420;--ink-2:#5C5248;--line:#E3DAC7;--brand:#2F3E46;--action:#9B2C2C;--action-ink:#fff;--head:var(--serif);--label:var(--sans);--body:var(--serif);--radius:4px;--th-bg:transparent;--th-ink:#2F3E46;--fs:18px;--lh:1.6;--h-w:400;--sticky-bg:#FBF7EE;--feld-rand:#8A7E70}
+h2{font-size:30px;line-height:1.2;letter-spacing:-.005em}
+.kopf{border-bottom:1px solid var(--line)}
+.kopf-zeile{display:flex;align-items:center;justify-content:space-between;height:68px}
+.marke{display:flex;align-items:center;gap:12px;text-decoration:none;font:400 22px/1 var(--serif);color:var(--ink)}
+.monogramm{width:34px;height:34px;border:1px solid var(--brand);border-radius:50%;display:grid;place-items:center;font:600 11px/1 var(--sans);letter-spacing:.08em;color:var(--brand)}
+.kopf .nav a{font:14px/1 var(--sans);margin-left:26px}
+.hero{padding:26px 0 8px}
+.eyebrow{font:italic 17px/1.3 var(--serif);color:var(--ink-2);margin-bottom:6px}
+.hero h1{font-size:50px;line-height:1.06;font-weight:400;letter-spacing:-.015em;max-width:20ch}
+.hero-grid{display:grid;grid-template-columns:minmax(0,68ch) 300px;justify-content:space-between;gap:40px;margin-top:16px;align-items:start}
+.antwort{font:22px/1.42 var(--serif);max-width:34em}
+.stand{font:13px/1.3 var(--sans);letter-spacing:.02em;margin-top:6px}
+.gilt{font-size:16px;margin-top:10px}
+.haken{margin-top:12px;display:flex;flex-direction:column;gap:6px;font-size:17px}
+.haken li{display:flex;gap:12px;align-items:center}
+.haken li::before{content:"\2713";flex:0 0 22px;height:22px;border-radius:50%;background:var(--brand);color:#fff;font:700 12px/22px var(--sans);text-align:center}
+.wahl-karte{border:1px solid var(--line);border-top:3px solid var(--brand);background:var(--surface);padding:18px;display:flex;flex-direction:column;gap:12px}
+.wahl-titel{font:600 12px/1 var(--sans);text-transform:uppercase;letter-spacing:.1em;color:var(--brand)}
+.wahl-sub{font:13px/1.4 var(--sans);color:var(--ink-2)}
+.werkzeug{margin-top:22px}
+.scroll{border:0;border-top:2px solid var(--brand);border-radius:0;background:transparent}
+table{font:15px/1.35 var(--sans)}
+caption{border-bottom:1px solid var(--line);padding:10px 0;font:400 19px/1.3 var(--serif)}
+caption .cap-sub{display:inline;font:13px var(--sans);margin-left:10px}
+thead th{font:400 15px/1.25 var(--serif);border-bottom:1px solid var(--brand);padding:8px 14px}
+thead th .unter{display:block;font:12px/1.3 var(--sans);color:var(--ink-2)}
+th,td{padding:7px 14px}
+th:first-child,td:first-child{padding-left:0}
+tbody th{font-weight:600;font-size:15px}
+.daten-fuss{font:14px/1.5 var(--sans)}
+.annahmen{background:transparent}
+.pruefliste{counter-reset:p;border-top:1px solid var(--line)}
+.pruefliste li{counter-increment:p;display:grid;grid-template-columns:44px minmax(0,1fr) minmax(0,1fr);gap:20px;padding:16px 0;border-bottom:1px solid var(--line);align-items:baseline}
+.pruefliste li::before{content:counter(p);width:32px;height:32px;border-radius:50%;background:var(--brand);color:#fff;display:grid;place-items:center;font:600 14px/1 var(--sans);align-self:start}
+.pruefliste .warum{font:15px/1.5 var(--sans);color:var(--ink-2)}
+.warum-label{font-weight:600;color:var(--ink)}
+.daten{font-size:15px}
+.lead{border-top:3px solid var(--brand)}
+.lead h2,.makler-name{font-weight:400}
+.makler-text .makler-name{font:400 20px/1.3 var(--serif)}
+.makler-text p,.termin-hinweis,.zustimmung,.direkt{font-family:var(--sans)}
+.faq details{border:0;border-left:3px solid var(--brand);padding-left:18px;margin-bottom:10px;background:var(--surface)}
+.faq summary{font-weight:400;font-size:19px}
+.fuss{font-family:var(--sans)}
+.preis-kompakt{border-top:2px solid var(--brand);padding-top:8px;font-family:var(--sans)}
+.preis-kompakt p:first-child{font:600 17px/1.35 var(--sans)}
+.pk-sub{font:13px/1.35 var(--sans);color:var(--ink-2)}
+@media (max-width:640px){
+:root{--fs:17px}
+ .kopf-zeile{height:56px}
+ .marke{font-size:18px;gap:9px}
+ .monogramm{width:28px;height:28px;font-size:10px}
+ .kopf .nav a{margin-left:12px;font-size:13px}
+ .hero{padding:18px 0 4px}
+ .eyebrow{font-size:15px}
+ .hero h1{font-size:33px;line-height:1.08}
+ .hero-grid{grid-template-columns:minmax(0,1fr);gap:18px;margin-top:12px}
+ .antwort{font-size:19px;line-height:1.42}
+ .haken{font-size:16px;margin-top:10px;gap:4px}
+ h2{font-size:25px}
+ .pruefliste li{grid-template-columns:40px minmax(0,1fr);gap:6px 12px}
+ .pruefliste .warum{grid-column:2}
+ caption .cap-sub{display:block;margin-left:0}
+}

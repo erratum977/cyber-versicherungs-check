@@ -1,0 +1,101 @@
+# Cyber-Versicherungs-Check
+
+> Lohnt sich eine Cyberversicherung für deine Firma? Der Check zeigt, was sie zahlt, was Versicherer an IT-Sicherheit verlangen und was den Beitrag bestimmt.
+
+Betreiber: ENV Versicherungsmakler UG (haftungsbeschränkt), Sebastian Steinhuber, Berlin, § 34d Abs. 1 GewO.
+
+## Inhalt
+- [Startseite](https://cyber-versicherungs-check.de/): Cyberversicherung für Unternehmen: der Check
+- [Vergleich](https://cyber-versicherungs-check.de/vergleich/): Leistungen der Cyber-Tarife nebeneinander, je Zelle mit Fundstelle und Tarifstand
+- [Leistungen](https://cyber-versicherungs-check.de/leistung/): 13 Leistungsmerkmale, ausgewertet für 6 Tarife: AXA FirmenFlex Cyber, Baloise Cyber-Police, Continentale KuBuS Cyber, ERGO Cyber-Versicherung, Hiscox CyberClear, Markel Pro Cyber.
+- [Branchen](https://cyber-versicherungs-check.de/branche/): 36 Branchen, je Branche ausgewertet für 6 Tarife.
+
+## Ratgeber
+- [IT-Sicherheit](https://cyber-versicherungs-check.de/it-sicherheit/): Welche IT-Sicherheit Versicherer im Antrag zur Cyberversicherung abfragen, ausgewertet aus sechs Anträgen
+- [CyberRisikoCheck](https://cyber-versicherungs-check.de/cyberrisikocheck/): CyberRisikoCheck nach DIN SPEC 27076: Ablauf laut BSI und Abgrenzung zur Cyberversicherung
+
+## Tarife
+- [AXA FirmenFlex Cyber](https://cyber-versicherungs-check.de/tarife/axa-firmenflex-cyber/): AXA FirmenFlex Cyber (AXA Versicherung AG): Cyber-Leistungen mit Fundstelle, Tarifstand 09/2026
+- [Baloise Cyber-Police](https://cyber-versicherungs-check.de/tarife/baloise-cyber-police/): Baloise Cyber-Police (Baloise Sachversicherung AG Deutschland): Cyber-Leistungen mit Fundstelle, Tarifstand 04/2025
+- [Continentale KuBuS Cyber](https://cyber-versicherungs-check.de/tarife/continentale-kubus-cyber/): Continentale KuBuS Cyber (Continentale Sachversicherung AG): Cyber-Leistungen mit Fundstelle, Tarifstand 10/2025
+- [ERGO Cyber-Versicherung](https://cyber-versicherungs-check.de/tarife/ergo-cyber-versicherung/): ERGO Cyber-Versicherung (ERGO Versicherung AG): Cyber-Leistungen mit Fundstelle, Tarifstand 10/2024
+- [Hiscox CyberClear](https://cyber-versicherungs-check.de/tarife/hiscox-cyberclear/): Hiscox CyberClear (Hiscox SA): Cyber-Leistungen mit Fundstelle, Tarifstand 01/2026
+- [Markel Pro Cyber](https://cyber-versicherungs-check.de/tarife/markel-pro-cyber/): Markel Pro Cyber (Markel Insurance SE): Cyber-Leistungen mit Fundstelle, Tarifstand Antrag Version 2
+
+## Tarife paarweise
+- [AXA FirmenFlex Cyber und Baloise Cyber-Police](https://cyber-versicherungs-check.de/vergleich/axa-firmenflex-cyber-vs-baloise-cyber-police/): AXA FirmenFlex Cyber und Baloise Cyber-Police: 7 von 13 Merkmalen unterschiedlich
+- [AXA FirmenFlex Cyber und Continentale KuBuS Cyber](https://cyber-versicherungs-check.de/vergleich/axa-firmenflex-cyber-vs-continentale-kubus-cyber/): AXA FirmenFlex Cyber und Continentale KuBuS Cyber: 9 von 13 Merkmalen unterschiedlich
+- [AXA FirmenFlex Cyber und ERGO Cyber-Versicherung](https://cyber-versicherungs-check.de/vergleich/axa-firmenflex-cyber-vs-ergo-cyber-versicherung/): AXA FirmenFlex Cyber und ERGO Cyber-Versicherung: 9 von 13 Merkmalen unterschiedlich
+- [AXA FirmenFlex Cyber und Hiscox CyberClear](https://cyber-versicherungs-check.de/vergleich/axa-firmenflex-cyber-vs-hiscox-cyberclear/): AXA FirmenFlex Cyber und Hiscox CyberClear: 8 von 13 Merkmalen unterschiedlich
+- [AXA FirmenFlex Cyber und Markel Pro Cyber](https://cyber-versicherungs-check.de/vergleich/axa-firmenflex-cyber-vs-markel-pro-cyber/): AXA FirmenFlex Cyber und Markel Pro Cyber: 8 von 13 Merkmalen unterschiedlich
+- [Baloise Cyber-Police und Continentale KuBuS Cyber](https://cyber-versicherungs-check.de/vergleich/baloise-cyber-police-vs-continentale-kubus-cyber/): Baloise Cyber-Police und Continentale KuBuS Cyber: 7 von 13 Merkmalen unterschiedlich
+- [Baloise Cyber-Police und ERGO Cyber-Versicherung](https://cyber-versicherungs-check.de/vergleich/baloise-cyber-police-vs-ergo-cyber-versicherung/): Baloise Cyber-Police und ERGO Cyber-Versicherung: 3 von 13 Merkmalen unterschiedlich
+- [Baloise Cyber-Police und Hiscox CyberClear](https://cyber-versicherungs-check.de/vergleich/baloise-cyber-police-vs-hiscox-cyberclear/): Baloise Cyber-Police und Hiscox CyberClear: 6 von 13 Merkmalen unterschiedlich
+- [Baloise Cyber-Police und Markel Pro Cyber](https://cyber-versicherungs-check.de/vergleich/baloise-cyber-police-vs-markel-pro-cyber/): Baloise Cyber-Police und Markel Pro Cyber: 3 von 13 Merkmalen unterschiedlich
+- [Continentale KuBuS Cyber und ERGO Cyber-Versicherung](https://cyber-versicherungs-check.de/vergleich/continentale-kubus-cyber-vs-ergo-cyber-versicherung/): Continentale KuBuS Cyber und ERGO Cyber-Versicherung: 4 von 13 Merkmalen unterschiedlich
+- [Continentale KuBuS Cyber und Hiscox CyberClear](https://cyber-versicherungs-check.de/vergleich/continentale-kubus-cyber-vs-hiscox-cyberclear/): Continentale KuBuS Cyber und Hiscox CyberClear: 7 von 13 Merkmalen unterschiedlich
+- [Continentale KuBuS Cyber und Markel Pro Cyber](https://cyber-versicherungs-check.de/vergleich/continentale-kubus-cyber-vs-markel-pro-cyber/): Continentale KuBuS Cyber und Markel Pro Cyber: 7 von 13 Merkmalen unterschiedlich
+- [ERGO Cyber-Versicherung und Hiscox CyberClear](https://cyber-versicherungs-check.de/vergleich/ergo-cyber-versicherung-vs-hiscox-cyberclear/): ERGO Cyber-Versicherung und Hiscox CyberClear: 5 von 13 Merkmalen unterschiedlich
+- [ERGO Cyber-Versicherung und Markel Pro Cyber](https://cyber-versicherungs-check.de/vergleich/ergo-cyber-versicherung-vs-markel-pro-cyber/): ERGO Cyber-Versicherung und Markel Pro Cyber: 4 von 13 Merkmalen unterschiedlich
+- [Hiscox CyberClear und Markel Pro Cyber](https://cyber-versicherungs-check.de/vergleich/hiscox-cyberclear-vs-markel-pro-cyber/): Hiscox CyberClear und Markel Pro Cyber: 6 von 13 Merkmalen unterschiedlich
+
+## Leistungen
+- [Soforthilfe und IT-Forensik](https://cyber-versicherungs-check.de/leistung/soforthilfe-und-it-forensik/): Soforthilfe und IT-Forensik: 6 von 6: enthalten
+- [Wiederherstellung von Daten](https://cyber-versicherungs-check.de/leistung/wiederherstellung-von-daten/): Wiederherstellung von Daten: 6 von 6: enthalten
+- [Hardware-Sachschäden](https://cyber-versicherungs-check.de/leistung/hardware-sachschaeden/): Hardware-Sachschäden: 5 von 6: enthalten; 1 von 6: als Zusatzbaustein
+- [Betriebsunterbrechung nach Cyberangriff](https://cyber-versicherungs-check.de/leistung/betriebsunterbrechung-nach-cyberangriff/): Betriebsunterbrechung nach Cyberangriff: 4 von 6: enthalten; 2 von 6: als Zusatzbaustein
+- [Ausfall Cloud- oder IT-Dienstleister, technische Probleme](https://cyber-versicherungs-check.de/leistung/ausfall-cloud-oder-it-dienstleister-technische-probleme/): Ausfall Cloud- oder IT-Dienstleister, technische Probleme: 3 von 6: enthalten; 2 von 6: teilweise, je nach gewählten Bausteinen; 1 von 6: als Zusatzbaustein
+- [Cyber-Erpressung und Lösegeld](https://cyber-versicherungs-check.de/leistung/cyber-erpressung-und-loesegeld/): Cyber-Erpressung und Lösegeld: 5 von 6: enthalten; 1 von 6: als Zusatzbaustein
+- [Manipulierte Zahlungen, Fake President](https://cyber-versicherungs-check.de/leistung/manipulierte-zahlungen-fake-president/): Manipulierte Zahlungen, Fake President: 3 von 6: enthalten; 2 von 6: als Zusatzbaustein; 1 von 6: ausdrücklich geregelt
+- [Schäden durch eigene Mitarbeiter](https://cyber-versicherungs-check.de/leistung/schaeden-durch-eigene-mitarbeiter/): Schäden durch eigene Mitarbeiter: 3 von 6: nicht ausdrücklich genannt; 2 von 6: nicht wählbar; 1 von 6: enthalten
+- [Ansprüche Dritter nach Cybervorfall](https://cyber-versicherungs-check.de/leistung/ansprueche-dritter-nach-cybervorfall/): Ansprüche Dritter nach Cybervorfall: 6 von 6: enthalten
+- [Krisenkommunikation](https://cyber-versicherungs-check.de/leistung/krisenkommunikation/): Krisenkommunikation: 6 von 6: enthalten
+- [Benachrichtigung Betroffener](https://cyber-versicherungs-check.de/leistung/benachrichtigung-betroffener/): Benachrichtigung Betroffener: 6 von 6: enthalten
+- [Prävention und Schulung](https://cyber-versicherungs-check.de/leistung/praevention-und-schulung/): Prävention und Schulung: 2 von 6: als Zusatzbaustein; 2 von 6: enthalten; 1 von 6: ausdrücklich geregelt; 1 von 6: keine Angabe in den Unterlagen
+- [Notfall-Hotline rund um die Uhr](https://cyber-versicherungs-check.de/leistung/notfall-hotline-rund-um-die-uhr/): Notfall-Hotline rund um die Uhr: 3 von 6: enthalten; 2 von 6: nicht ausdrücklich genannt; 1 von 6: keine Angabe in den Unterlagen
+
+## Branchen
+- [Anwalts- oder Steuerkanzlei](https://cyber-versicherungs-check.de/branche/kanzlei/): Anwalts- oder Steuerkanzlei: 4 von 6 Tarifen online berechenbar (Baloise Cyber-Police, Continentale KuBuS Cyber, Hiscox CyberClear, Markel Pro Cyber)
+- [Buchhaltung, Lohnbüro](https://cyber-versicherungs-check.de/branche/buchhaltung/): Buchhaltung, Lohnbüro: 3 von 6 Tarifen online berechenbar (Baloise Cyber-Police, Continentale KuBuS Cyber, Markel Pro Cyber)
+- [Unternehmensberatung](https://cyber-versicherungs-check.de/branche/beratung/): Unternehmensberatung: 4 von 6 Tarifen online berechenbar (Baloise Cyber-Police, Continentale KuBuS Cyber, Hiscox CyberClear, Markel Pro Cyber)
+- [Personalberatung](https://cyber-versicherungs-check.de/branche/personalberatung/): Personalberatung: 4 von 6 Tarifen online berechenbar (Baloise Cyber-Police, Continentale KuBuS Cyber, Hiscox CyberClear, Markel Pro Cyber)
+- [Architekturbüro](https://cyber-versicherungs-check.de/branche/architekt/): Architekturbüro: 3 von 6 Tarifen online berechenbar (Baloise Cyber-Police, Continentale KuBuS Cyber, Markel Pro Cyber)
+- [Ingenieur- oder Planungsbüro](https://cyber-versicherungs-check.de/branche/ingenieur/): Ingenieur- oder Planungsbüro: 3 von 6 Tarifen online berechenbar (Baloise Cyber-Police, Hiscox CyberClear, Markel Pro Cyber)
+- [Werbe-, Marketing-, PR-Agentur](https://cyber-versicherungs-check.de/branche/agentur/): Werbe-, Marketing-, PR-Agentur: 4 von 6 Tarifen online berechenbar (Baloise Cyber-Police, Continentale KuBuS Cyber, Hiscox CyberClear, Markel Pro Cyber)
+- [Medien, Journalismus, Fotografie](https://cyber-versicherungs-check.de/branche/medien/): Medien, Journalismus, Fotografie: 4 von 6 Tarifen online berechenbar (Baloise Cyber-Police, Continentale KuBuS Cyber, Hiscox CyberClear, Markel Pro Cyber)
+- [Verlag](https://cyber-versicherungs-check.de/branche/verlag/): Verlag: 3 von 6 Tarifen online berechenbar (Continentale KuBuS Cyber, Hiscox CyberClear, Markel Pro Cyber)
+- [Arzt- oder Zahnarztpraxis](https://cyber-versicherungs-check.de/branche/arztpraxis/): Arzt- oder Zahnarztpraxis: 4 von 6 Tarifen online berechenbar (Baloise Cyber-Police, Continentale KuBuS Cyber, Hiscox CyberClear, Markel Pro Cyber)
+- [Tierarztpraxis](https://cyber-versicherungs-check.de/branche/tierarzt/): Tierarztpraxis: 4 von 6 Tarifen online berechenbar (Baloise Cyber-Police, Continentale KuBuS Cyber, Hiscox CyberClear, Markel Pro Cyber)
+- [Therapie- oder Heilberufspraxis](https://cyber-versicherungs-check.de/branche/therapie/): Therapie- oder Heilberufspraxis: 4 von 6 Tarifen online berechenbar (Baloise Cyber-Police, Continentale KuBuS Cyber, Hiscox CyberClear, Markel Pro Cyber)
+- [Apotheke](https://cyber-versicherungs-check.de/branche/apotheke/): Apotheke: 3 von 6 Tarifen online berechenbar (Baloise Cyber-Police, Continentale KuBuS Cyber, Markel Pro Cyber)
+- [Einzelhandel (Laden)](https://cyber-versicherungs-check.de/branche/einzelhandel/): Einzelhandel (Laden): 4 von 6 Tarifen online berechenbar (Baloise Cyber-Police, Continentale KuBuS Cyber, Hiscox CyberClear, Markel Pro Cyber)
+- [Onlinehandel (Shop als Hauptgeschäft)](https://cyber-versicherungs-check.de/branche/onlinehandel/): Onlinehandel (Shop als Hauptgeschäft): 3 von 6 Tarifen online berechenbar (Baloise Cyber-Police, Hiscox CyberClear, Markel Pro Cyber)
+- [Großhandel](https://cyber-versicherungs-check.de/branche/grosshandel/): Großhandel: 4 von 6 Tarifen online berechenbar (Baloise Cyber-Police, Continentale KuBuS Cyber, Hiscox CyberClear, Markel Pro Cyber)
+- [Handwerk (nicht Bau)](https://cyber-versicherungs-check.de/branche/handwerk/): Handwerk (nicht Bau): 4 von 6 Tarifen online berechenbar (Baloise Cyber-Police, Continentale KuBuS Cyber, Hiscox CyberClear, Markel Pro Cyber)
+- [Bau, Ausbau, Bauträger](https://cyber-versicherungs-check.de/branche/bau/): Bau, Ausbau, Bauträger: 4 von 6 Tarifen online berechenbar (Baloise Cyber-Police, Continentale KuBuS Cyber, Hiscox CyberClear, Markel Pro Cyber)
+- [Produktion, Herstellung](https://cyber-versicherungs-check.de/branche/produktion/): Produktion, Herstellung: 3 von 6 Tarifen online berechenbar (Baloise Cyber-Police, Hiscox CyberClear, Markel Pro Cyber)
+- [Kfz-Werkstatt](https://cyber-versicherungs-check.de/branche/kfz-werkstatt/): Kfz-Werkstatt: 4 von 6 Tarifen online berechenbar (Baloise Cyber-Police, Continentale KuBuS Cyber, Hiscox CyberClear, Markel Pro Cyber)
+- [Fahrzeughandel](https://cyber-versicherungs-check.de/branche/kfz-handel/): Fahrzeughandel: 4 von 6 Tarifen online berechenbar (Baloise Cyber-Police, Continentale KuBuS Cyber, Hiscox CyberClear, Markel Pro Cyber)
+- [Gastronomie, Restaurant, Café](https://cyber-versicherungs-check.de/branche/gastro/): Gastronomie, Restaurant, Café: 4 von 6 Tarifen online berechenbar (Baloise Cyber-Police, Continentale KuBuS Cyber, Hiscox CyberClear, Markel Pro Cyber)
+- [Hotel, Pension, Ferienwohnung](https://cyber-versicherungs-check.de/branche/beherbergung/): Hotel, Pension, Ferienwohnung: 4 von 6 Tarifen online berechenbar (Baloise Cyber-Police, Continentale KuBuS Cyber, Hiscox CyberClear, Markel Pro Cyber)
+- [Hausverwaltung, Immobilien](https://cyber-versicherungs-check.de/branche/immobilien/): Hausverwaltung, Immobilien: 4 von 6 Tarifen online berechenbar (Baloise Cyber-Police, Continentale KuBuS Cyber, Hiscox CyberClear, Markel Pro Cyber)
+- [Schule, Nachhilfe, Sport- und Yoga-Unterricht](https://cyber-versicherungs-check.de/branche/bildung/): Schule, Nachhilfe, Sport- und Yoga-Unterricht: 4 von 6 Tarifen online berechenbar (Baloise Cyber-Police, Continentale KuBuS Cyber, Hiscox CyberClear, Markel Pro Cyber)
+- [Coaching, Training, Seminare](https://cyber-versicherungs-check.de/branche/coaching/): Coaching, Training, Seminare: 3 von 6 Tarifen online berechenbar (Continentale KuBuS Cyber, Hiscox CyberClear, Markel Pro Cyber)
+- [Fitness, Sport, Freizeit](https://cyber-versicherungs-check.de/branche/fitness/): Fitness, Sport, Freizeit: 4 von 6 Tarifen online berechenbar (Baloise Cyber-Police, Continentale KuBuS Cyber, Hiscox CyberClear, Markel Pro Cyber)
+- [Verein, gemeinnützige Organisation](https://cyber-versicherungs-check.de/branche/verein/): Verein, gemeinnützige Organisation: 4 von 6 Tarifen online berechenbar (Baloise Cyber-Police, Continentale KuBuS Cyber, Hiscox CyberClear, Markel Pro Cyber)
+- [Berufs- oder Wirtschaftsverband](https://cyber-versicherungs-check.de/branche/verband/): Berufs- oder Wirtschaftsverband: 4 von 6 Tarifen online berechenbar (Baloise Cyber-Police, Continentale KuBuS Cyber, Hiscox CyberClear, Markel Pro Cyber)
+- [Reisebüro, Reiseveranstalter](https://cyber-versicherungs-check.de/branche/reise/): Reisebüro, Reiseveranstalter: 4 von 6 Tarifen online berechenbar (Baloise Cyber-Police, Continentale KuBuS Cyber, Hiscox CyberClear, Markel Pro Cyber)
+- [Eventagentur, Veranstaltungsorganisation](https://cyber-versicherungs-check.de/branche/event/): Eventagentur, Veranstaltungsorganisation: 3 von 6 Tarifen online berechenbar (Baloise Cyber-Police, Hiscox CyberClear, Markel Pro Cyber)
+- [Personaldienstleistung](https://cyber-versicherungs-check.de/branche/personal/): Personaldienstleistung: 3 von 6 Tarifen online berechenbar (Continentale KuBuS Cyber, Hiscox CyberClear, Markel Pro Cyber)
+- [Versicherungsvermittlung](https://cyber-versicherungs-check.de/branche/finanzvermittlung/): Versicherungsvermittlung: 2 von 6 Tarifen online berechenbar (Baloise Cyber-Police, Markel Pro Cyber)
+- [Finanz- oder Anlageberatung](https://cyber-versicherungs-check.de/branche/finanzberater/): Finanz- oder Anlageberatung: 1 von 6 Tarifen online berechenbar (Markel Pro Cyber)
+- [Logistik, Transport, Kurier](https://cyber-versicherungs-check.de/branche/logistik/): Logistik, Transport, Kurier: 2 von 6 Tarifen online berechenbar (Continentale KuBuS Cyber, Markel Pro Cyber)
+- [IT, Software, Hosting](https://cyber-versicherungs-check.de/branche/it-dienstleister/): IT, Software, Hosting: 2 von 6 Tarifen online berechenbar (Hiscox CyberClear, Markel Pro Cyber)
+
+## Über diese Seite
+- [Methodik](https://cyber-versicherungs-check.de/methodik/): Woher die Daten kommen, Tarifstände von 6 Tarifen
+- [Änderungen](https://cyber-versicherungs-check.de/aenderungen/): 1 Änderungen an Tarifen und Daten, zuletzt am 13.11.2026
+- [Makler](https://cyber-versicherungs-check.de/makler/): Sebastian Steinhuber, Versicherungsmakler nach § 34d Abs. 1 GewO, Berlin
+
+## Daten
+- [tarife.json](https://cyber-versicherungs-check.de/daten/tarife.json): Merkmale je Tarif mit Einordnung, Grenze, Fundstelle und Tarifstand

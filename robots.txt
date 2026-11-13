@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://cyber-versicherungs-check.de/sitemap.xml

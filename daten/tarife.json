@@ -1,0 +1,618 @@
+{
+ "marke": "Cyber-Versicherungs-Check",
+ "url": "https://cyber-versicherungs-check.de/",
+ "sparte": "cyber",
+ "datenstand": "28.10.2026",
+ "betreiber": "ENV Versicherungsmakler UG (haftungsbeschränkt), Sebastian Steinhuber, Berlin",
+ "hinweis": "Auswertung der Bedingungswerke, Leistungsübersichten und Antragsstrecken der genannten Versicherer durch Sebastian Steinhuber, Versicherungsmakler mit Erlaubnis nach § 34d Abs. 1 GewO. Tarifstand je Tarif angegeben. Die Daten umfassen nur die genannten Tarife und sind keine Bewertung. Maßgeblich sind allein die Bedingungen und das Angebot des Versicherers.",
+ "merkmale": [
+  {
+   "key": "eigenschaden_forensik",
+   "label": "Soforthilfe und IT-Forensik",
+   "erklaerung": "Kosten für Fachleute, die den Angriff untersuchen und stoppen.",
+   "gruppe": null
+  },
+  {
+   "key": "datenwiederherstellung",
+   "label": "Wiederherstellung von Daten",
+   "erklaerung": "Kosten, um Daten und Programme nach einem Angriff wiederherzustellen.",
+   "gruppe": null
+  },
+  {
+   "key": "hardware_sachschaeden",
+   "label": "Hardware-Sachschäden",
+   "erklaerung": "Reparatur oder Ersatz von IT-Geräten wie Computer, Server oder Router, wenn ein Cybervorfall sie beschädigt oder zerstört hat. Welche Geräte zählen, bis zu welcher Höhe und ob nur Geräte ersetzt werden, die sich nicht mehr reinigen lassen, ist je Tarif verschieden.",
+   "gruppe": null
+  },
+  {
+   "key": "betriebsunterbrechung",
+   "label": "Betriebsunterbrechung nach Cyberangriff",
+   "erklaerung": "Ersatz für entgangenen Gewinn und laufende Kosten, wenn dein Betrieb nach einem Angriff stillsteht. Wartezeit und Dauer unterscheiden sich je Tarif.",
+   "gruppe": null
+  },
+  {
+   "key": "bu_dienstleister_technik",
+   "label": "Ausfall Cloud- oder IT-Dienstleister, technische Probleme",
+   "erklaerung": "Ausfall beim Cloud- oder IT-Dienstleister ohne Angriff und technische Störungen deiner eigenen IT: Ob das versichert ist und bis zu welcher Höhe, steht je Tarif in dieser Zeile.",
+   "gruppe": null
+  },
+  {
+   "key": "cyber_erpressung_loesegeld",
+   "label": "Cyber-Erpressung und Lösegeld",
+   "erklaerung": "Kosten, wenn dich jemand mit einem Angriff auf deine IT oder mit der Veröffentlichung von Daten erpresst. Ob auch das Lösegeld selbst ersetzt wird und bis zu welcher Höhe, ist je Tarif verschieden. Melde eine Erpressung immer zuerst dem Versicherer, bevor du zahlst.",
+   "gruppe": null
+  },
+  {
+   "key": "zahlungsverkehr_social_engineering",
+   "label": "Manipulierte Zahlungen, Fake President",
+   "erklaerung": "Schäden durch gefälschte Zahlungsanweisungen, etwa wenn sich ein Betrüger als Chef ausgibt. Einige Tarife zahlen nur, wenn der Betrug über eine Sicherheitsverletzung an deiner IT möglich wurde, und nicht, wenn du selbst als Inhaber oder Geschäftsführer getäuscht wirst. Was je Tarif gilt, steht in dieser Zeile.",
+   "gruppe": null
+  },
+  {
+   "key": "vertrauensschaden",
+   "label": "Schäden durch eigene Mitarbeiter",
+   "erklaerung": "Vermögensschäden durch vorsätzliche Taten eigener Mitarbeiter, etwa Unterschlagung oder Missbrauch von Kundendaten. Bei manchen Tarifen gehört auch Betrug durch Außenstehende dazu.",
+   "gruppe": null
+  },
+  {
+   "key": "drittschaden_haftpflicht",
+   "label": "Ansprüche Dritter nach Cybervorfall",
+   "erklaerung": "Ansprüche von Kunden oder Partnern nach einem Cybervorfall bei dir. Ersetzt keine Berufs- oder IT-Haftpflicht.",
+   "gruppe": null
+  },
+  {
+   "key": "krisen_pr",
+   "label": "Krisenkommunikation",
+   "erklaerung": "Unterstützung bei der Kommunikation nach einem Vorfall.",
+   "gruppe": null
+  },
+  {
+   "key": "benachrichtigungskosten",
+   "label": "Benachrichtigung Betroffener",
+   "erklaerung": "Kosten, um Kunden und Betroffene nach einer Datenpanne zu informieren.",
+   "gruppe": null
+  },
+  {
+   "key": "praevention_services",
+   "label": "Prävention und Schulung",
+   "erklaerung": "Angebote zur Vorbeugung, zum Beispiel Schulungen.",
+   "gruppe": null
+  },
+  {
+   "key": "hotline_24_7",
+   "label": "Notfall-Hotline rund um die Uhr",
+   "erklaerung": "Ansprechpartner im Notfall, auch nachts und am Wochenende.",
+   "gruppe": null
+  }
+ ],
+ "tarife": [
+  {
+   "id": "c5",
+   "marke": "AXA FirmenFlex Cyber",
+   "rechtstraeger": "AXA Versicherung AG",
+   "tarifstand": "09/2026",
+   "online_antrag": false,
+   "url": "https://cyber-versicherungs-check.de/tarife/axa-firmenflex-cyber/",
+   "merkmale": {
+    "eigenschaden_forensik": {
+     "wert": "eingeschlossen",
+     "einordnung": "enthalten",
+     "grenze": null,
+     "fundstelle": "X S.3 Z.11 bis 18 Grundbaustein (Sachverständigenkosten)"
+    },
+    "datenwiederherstellung": {
+     "wert": "eingeschlossen",
+     "einordnung": "enthalten",
+     "grenze": null,
+     "fundstelle": "X S.3 Z.11 bis 18 Grundbaustein"
+    },
+    "hardware_sachschaeden": {
+     "wert": "eingeschlossen",
+     "einordnung": "enthalten",
+     "grenze": "nur Austausch, wenn Wiederherstellung nicht möglich",
+     "fundstelle": "X S. 29 Teil B 1.3.6, nur Austausch bei nicht möglicher Wiederherstellung"
+    },
+    "betriebsunterbrechung": {
+     "wert": "baustein",
+     "einordnung": "als Zusatzbaustein",
+     "grenze": null,
+     "fundstelle": "X S.27 Teil B 1.1.1"
+    },
+    "bu_dienstleister_technik": {
+     "wert": "teilweise",
+     "einordnung": "teilweise, je nach gewählten Bausteinen",
+     "grenze": "10 % der VS, nur Dienstleister, Mehrkosten; Ertragsausfall nur mit Baustein",
+     "fundstelle": "X S.27 Teil B 1.1.2 d"
+    },
+    "cyber_erpressung_loesegeld": {
+     "wert": "eingeschlossen",
+     "einordnung": "enthalten",
+     "grenze": "bis 5 % der VS",
+     "fundstelle": "X S.29 bis 30 Teil B 1.7"
+    },
+    "zahlungsverkehr_social_engineering": {
+     "wert": "baustein",
+     "einordnung": "als Zusatzbaustein",
+     "grenze": "bis 10 % der VS",
+     "fundstelle": "X S.29 Teil B 1.6.1, 1.6.3 c"
+    },
+    "vertrauensschaden": {
+     "wert": "nicht_waehlbar",
+     "einordnung": "nicht wählbar",
+     "grenze": null,
+     "fundstelle": "X S.3 Bausteinliste"
+    },
+    "drittschaden_haftpflicht": {
+     "wert": "eingeschlossen",
+     "einordnung": "enthalten",
+     "grenze": null,
+     "fundstelle": "X S.3 Z.11 bis 18 Grundbaustein Cyber-Haftpflicht"
+    },
+    "krisen_pr": {
+     "wert": "eingeschlossen",
+     "einordnung": "enthalten",
+     "grenze": "bis 50.000 €",
+     "fundstelle": "X S.3 Z.11 bis 18 Rufschädigung/Krisenmanagement"
+    },
+    "benachrichtigungskosten": {
+     "wert": "eingeschlossen",
+     "einordnung": "enthalten",
+     "grenze": null,
+     "fundstelle": "X S.3 Z.11 bis 18 Datenschutzverletzung"
+    },
+    "praevention_services": {
+     "wert": "nicht_belegt",
+     "einordnung": "keine Angabe in den Unterlagen",
+     "grenze": null,
+     "fundstelle": null
+    },
+    "hotline_24_7": {
+     "wert": "eingeschlossen",
+     "einordnung": "enthalten",
+     "grenze": null,
+     "fundstelle": null
+    }
+   }
+  },
+  {
+   "id": "c3",
+   "marke": "Baloise Cyber-Police",
+   "rechtstraeger": "Baloise Sachversicherung AG Deutschland",
+   "tarifstand": "04/2025",
+   "online_antrag": true,
+   "url": "https://cyber-versicherungs-check.de/tarife/baloise-cyber-police/",
+   "merkmale": {
+    "eigenschaden_forensik": {
+     "wert": "eingeschlossen",
+     "einordnung": "enthalten",
+     "grenze": null,
+     "fundstelle": "BA S. 8, Teil B Ziff. 1.1 bis 1.3"
+    },
+    "datenwiederherstellung": {
+     "wert": "eingeschlossen",
+     "einordnung": "enthalten",
+     "grenze": null,
+     "fundstelle": "BA S. 14, Teil D Ziff. 2.1 bis 2.3 a bis f"
+    },
+    "hardware_sachschaeden": {
+     "wert": "eingeschlossen",
+     "einordnung": "enthalten",
+     "grenze": null,
+     "fundstelle": "BA S. 14, Teil D Ziff. 3.4"
+    },
+    "betriebsunterbrechung": {
+     "wert": "eingeschlossen",
+     "einordnung": "enthalten",
+     "grenze": null,
+     "fundstelle": "BA S. 12 bis 14, Teil D Ziff. 1.1, 1.1.1, 1.2 bis 1.6"
+    },
+    "bu_dienstleister_technik": {
+     "wert": "eingeschlossen",
+     "einordnung": "enthalten",
+     "grenze": null,
+     "fundstelle": "BA S. 12 bis 13, Teil D Ziff. 1.1.2 und 1.1.3"
+    },
+    "cyber_erpressung_loesegeld": {
+     "wert": "eingeschlossen",
+     "einordnung": "enthalten",
+     "grenze": null,
+     "fundstelle": "BA S. 15, Teil D Ziff. 3.2 (Kosten)"
+    },
+    "zahlungsverkehr_social_engineering": {
+     "wert": "eingeschlossen",
+     "einordnung": "enthalten",
+     "grenze": null,
+     "fundstelle": "BA S. 14, Teil D Ziff. 3.1.1 (Zahlungsverkehr), 3.1.2 (Warenversand)"
+    },
+    "vertrauensschaden": {
+     "wert": "nicht_waehlbar",
+     "einordnung": "nicht wählbar",
+     "grenze": null,
+     "fundstelle": "BA S. 7, Teil A Ziff. 20.10 Abs. 2"
+    },
+    "drittschaden_haftpflicht": {
+     "wert": "eingeschlossen",
+     "einordnung": "enthalten",
+     "grenze": null,
+     "fundstelle": "BA S. 9 bis 11, Teil C Ziff. 1, 4, 5, 6"
+    },
+    "krisen_pr": {
+     "wert": "eingeschlossen",
+     "einordnung": "enthalten",
+     "grenze": null,
+     "fundstelle": "BA S. 9, Teil B Ziff. 2 und 2.2"
+    },
+    "benachrichtigungskosten": {
+     "wert": "eingeschlossen",
+     "einordnung": "enthalten",
+     "grenze": null,
+     "fundstelle": "BA S. 9, Teil B Ziff. 2.1 a bis c"
+    },
+    "praevention_services": {
+     "wert": "ausdruecklich_genannt",
+     "einordnung": "ausdrücklich geregelt",
+     "grenze": null,
+     "fundstelle": "BA S. 15, Teil D Ziff. 3.7"
+    },
+    "hotline_24_7": {
+     "wert": "eingeschlossen",
+     "einordnung": "enthalten",
+     "grenze": null,
+     "fundstelle": "BL S. 1 Badge 'Unsere Krisenhotline: 24 Std. / 7 Tage die Woche über Versicherer' (Seitenbild)"
+    }
+   }
+  },
+  {
+   "id": "c6",
+   "marke": "Continentale KuBuS Cyber",
+   "rechtstraeger": "Continentale Sachversicherung AG",
+   "tarifstand": "10/2025",
+   "online_antrag": true,
+   "url": "https://cyber-versicherungs-check.de/tarife/continentale-kubus-cyber/",
+   "merkmale": {
+    "eigenschaden_forensik": {
+     "wert": "eingeschlossen",
+     "einordnung": "enthalten",
+     "grenze": null,
+     "fundstelle": "AVB-K A2-1.1, A2-1.2 (S.13)"
+    },
+    "datenwiederherstellung": {
+     "wert": "eingeschlossen",
+     "einordnung": "enthalten",
+     "grenze": null,
+     "fundstelle": "AVB-K A4-2 (S.18 bis 19)"
+    },
+    "hardware_sachschaeden": {
+     "wert": "baustein",
+     "einordnung": "als Zusatzbaustein",
+     "grenze": null,
+     "fundstelle": "AVB-K CK1003 (S. 35)"
+    },
+    "betriebsunterbrechung": {
+     "wert": "eingeschlossen",
+     "einordnung": "enthalten",
+     "grenze": null,
+     "fundstelle": "AVB-K A4-1 (S.17 bis 18), A1-15 (S.10)"
+    },
+    "bu_dienstleister_technik": {
+     "wert": "baustein",
+     "einordnung": "als Zusatzbaustein",
+     "grenze": null,
+     "fundstelle": "AVB-K Teil C CK1002 (S.35), CK4002 (S.36), A1-2.1 Abs. 3 (S.8), A1-17.5 (S.12)"
+    },
+    "cyber_erpressung_loesegeld": {
+     "wert": "baustein",
+     "einordnung": "als Zusatzbaustein",
+     "grenze": null,
+     "fundstelle": "AVB-K CK1001 'Cyber-Erpressung' (S.34), A1-17.6 (S.12), A2-2 'Nur angedrohte ...' (S.13)"
+    },
+    "zahlungsverkehr_social_engineering": {
+     "wert": "baustein",
+     "einordnung": "als Zusatzbaustein",
+     "grenze": null,
+     "fundstelle": "AVB-K CK1001 'Cyber-Betrug/Cyber-Diebstahl' (S.34 bis 35), A1-9 (S.9), A1-7 (S.9), A1-17.8 (S.12)"
+    },
+    "vertrauensschaden": {
+     "wert": "nicht_ausdruecklich_genannt",
+     "einordnung": "nicht ausdrücklich genannt",
+     "grenze": null,
+     "fundstelle": "AVB-K A1-17.8, A1-17.9 (S.12)"
+    },
+    "drittschaden_haftpflicht": {
+     "wert": "eingeschlossen",
+     "einordnung": "enthalten",
+     "grenze": null,
+     "fundstelle": "AVB-K A3-1 bis A3-7 (S.14 bis 17)"
+    },
+    "krisen_pr": {
+     "wert": "eingeschlossen",
+     "einordnung": "enthalten",
+     "grenze": null,
+     "fundstelle": "AVB-K A2-2 'Krisenkommunikation und PR-Maßnahmen' (S.14)"
+    },
+    "benachrichtigungskosten": {
+     "wert": "eingeschlossen",
+     "einordnung": "enthalten",
+     "grenze": null,
+     "fundstelle": "AVB-K A2-2 (S.13 bis 14)"
+    },
+    "praevention_services": {
+     "wert": "baustein",
+     "einordnung": "als Zusatzbaustein",
+     "grenze": null,
+     "fundstelle": "AVB-K CK1004 a) bis c) (S.36)"
+    },
+    "hotline_24_7": {
+     "wert": "nicht_ausdruecklich_genannt",
+     "einordnung": "nicht ausdrücklich genannt",
+     "grenze": null,
+     "fundstelle": "AVB-K A2-1.1 (S.13)"
+    }
+   }
+  },
+  {
+   "id": "c4",
+   "marke": "ERGO Cyber-Versicherung",
+   "rechtstraeger": "ERGO Versicherung AG",
+   "tarifstand": "10/2024",
+   "online_antrag": false,
+   "url": "https://cyber-versicherungs-check.de/tarife/ergo-cyber-versicherung/",
+   "merkmale": {
+    "eigenschaden_forensik": {
+     "wert": "eingeschlossen",
+     "einordnung": "enthalten",
+     "grenze": null,
+     "fundstelle": "AVB-E C.1.1 bis C.1.3 (S.10 bis 11)"
+    },
+    "datenwiederherstellung": {
+     "wert": "eingeschlossen",
+     "einordnung": "enthalten",
+     "grenze": null,
+     "fundstelle": "AVB-E B.1.1 bis B.1.3 (S.7 bis 8)"
+    },
+    "hardware_sachschaeden": {
+     "wert": "eingeschlossen",
+     "einordnung": "enthalten",
+     "grenze": null,
+     "fundstelle": "AVB-E B.4 (S. 10)"
+    },
+    "betriebsunterbrechung": {
+     "wert": "eingeschlossen",
+     "einordnung": "enthalten",
+     "grenze": null,
+     "fundstelle": "AVB-E B.2.1, B.2.3 bis B.2.5 (S.8 bis 9)"
+    },
+    "bu_dienstleister_technik": {
+     "wert": "eingeschlossen",
+     "einordnung": "enthalten",
+     "grenze": null,
+     "fundstelle": "AVB-E B.2.1 Abs. 2, B.2.2 (S.8)"
+    },
+    "cyber_erpressung_loesegeld": {
+     "wert": "eingeschlossen",
+     "einordnung": "enthalten",
+     "grenze": null,
+     "fundstelle": "AVB-E C.4.1 bis C.4.3 (S.11), E.9 (S.18 rechte Spalte Z.10 bis 18)"
+    },
+    "zahlungsverkehr_social_engineering": {
+     "wert": "eingeschlossen",
+     "einordnung": "enthalten",
+     "grenze": null,
+     "fundstelle": "AVB-E B.3.1 bis B.3.3 (S.9 bis 10)"
+    },
+    "vertrauensschaden": {
+     "wert": "nicht_ausdruecklich_genannt",
+     "einordnung": "nicht ausdrücklich genannt",
+     "grenze": null,
+     "fundstelle": "AVB-E B.3.1 letzter Satz (S.9)"
+    },
+    "drittschaden_haftpflicht": {
+     "wert": "eingeschlossen",
+     "einordnung": "enthalten",
+     "grenze": null,
+     "fundstelle": "AVB-E A.1 bis A.7 (S.4 bis 6)"
+    },
+    "krisen_pr": {
+     "wert": "eingeschlossen",
+     "einordnung": "enthalten",
+     "grenze": null,
+     "fundstelle": "AVB-E C.3 (S.11)"
+    },
+    "benachrichtigungskosten": {
+     "wert": "eingeschlossen",
+     "einordnung": "enthalten",
+     "grenze": null,
+     "fundstelle": "AVB-E C.2 (S.11)"
+    },
+    "praevention_services": {
+     "wert": "baustein",
+     "einordnung": "als Zusatzbaustein",
+     "grenze": null,
+     "fundstelle": "AVB-E C.3 e) (S.11 linke Spalte Z.48 bis 71)"
+    },
+    "hotline_24_7": {
+     "wert": "nicht_ausdruecklich_genannt",
+     "einordnung": "nicht ausdrücklich genannt",
+     "grenze": null,
+     "fundstelle": "AVB-E C.1.2.1 a) (S.10)"
+    }
+   }
+  },
+  {
+   "id": "c1",
+   "marke": "Hiscox CyberClear",
+   "rechtstraeger": "Hiscox SA",
+   "tarifstand": "01/2026",
+   "online_antrag": true,
+   "url": "https://cyber-versicherungs-check.de/tarife/hiscox-cyberclear/",
+   "merkmale": {
+    "eigenschaden_forensik": {
+     "wert": "eingeschlossen",
+     "einordnung": "enthalten",
+     "grenze": null,
+     "fundstelle": "AVB Ziff. II.1.1 (AVB-S. 4 = B S.23)"
+    },
+    "datenwiederherstellung": {
+     "wert": "eingeschlossen",
+     "einordnung": "enthalten",
+     "grenze": null,
+     "fundstelle": "AVB Ziff. II.2.5 (AVB-S. 5 bis 6 = B S.24 bis 25)"
+    },
+    "hardware_sachschaeden": {
+     "wert": "eingeschlossen",
+     "einordnung": "enthalten",
+     "grenze": null,
+     "fundstelle": "AVB Ziff. II.2.5"
+    },
+    "betriebsunterbrechung": {
+     "wert": "baustein",
+     "einordnung": "als Zusatzbaustein",
+     "grenze": null,
+     "fundstelle": "Zusatz-Baustein B S.7 Z.11 bis 34 (Tagessatz, zeitlicher SB, Haftzeit)"
+    },
+    "bu_dienstleister_technik": {
+     "wert": "teilweise",
+     "einordnung": "teilweise, je nach gewählten Bausteinen",
+     "grenze": "Bausteine Cloud-Ausfall und technische Probleme auf Anfrage",
+     "fundstelle": "AVB 2026-01 Ziff. II.4.2 und II.4.1.4"
+    },
+    "cyber_erpressung_loesegeld": {
+     "wert": "eingeschlossen",
+     "einordnung": "enthalten",
+     "grenze": null,
+     "fundstelle": "AVB Ziff. I.4 (AVB-S. 4 = B S.23)"
+    },
+    "zahlungsverkehr_social_engineering": {
+     "wert": "eingeschlossen",
+     "einordnung": "enthalten",
+     "grenze": "bis 250.000 € (Cyber-Betrug)",
+     "fundstelle": "AVB Ziff. II.2.7 und II.2.8 (AVB-S. 7 = B S.26)"
+    },
+    "vertrauensschaden": {
+     "wert": "nicht_ausdruecklich_genannt",
+     "einordnung": "nicht ausdrücklich genannt",
+     "grenze": null,
+     "fundstelle": "AVB Ziff. I.1 (AVB-S. 3 = B S.22)"
+    },
+    "drittschaden_haftpflicht": {
+     "wert": "eingeschlossen",
+     "einordnung": "enthalten",
+     "grenze": null,
+     "fundstelle": "AVB Ziff. II.3 bis II.3.6 (AVB-S. 9 bis 11 = B S.28 bis 30)"
+    },
+    "krisen_pr": {
+     "wert": "eingeschlossen",
+     "einordnung": "enthalten",
+     "grenze": null,
+     "fundstelle": "AVB Ziff. II.2.4 (AVB-S. 5 = B S.24)"
+    },
+    "benachrichtigungskosten": {
+     "wert": "eingeschlossen",
+     "einordnung": "enthalten",
+     "grenze": null,
+     "fundstelle": "AVB Ziff. II.1.1 Abs. 3 (AVB-S. 4 = B S.23)"
+    },
+    "praevention_services": {
+     "wert": "enthalten",
+     "einordnung": "enthalten",
+     "grenze": null,
+     "fundstelle": "AVB Ziff. II.1.2 (AVB-S. 5 = B S.24)"
+    },
+    "hotline_24_7": {
+     "wert": "nicht_belegt",
+     "einordnung": "keine Angabe in den Unterlagen",
+     "grenze": null,
+     "fundstelle": "AVB Ziff. II.1.1 (AVB-S. 4 = B S.23), IV.1.2 und IV.16.1 (AVB-S. 18, 22 = B S.37, 41)"
+    }
+   }
+  },
+  {
+   "id": "c2",
+   "marke": "Markel Pro Cyber",
+   "rechtstraeger": "Markel Insurance SE",
+   "tarifstand": "Antrag Version 2",
+   "online_antrag": true,
+   "url": "https://cyber-versicherungs-check.de/tarife/markel-pro-cyber/",
+   "merkmale": {
+    "eigenschaden_forensik": {
+     "wert": "eingeschlossen",
+     "einordnung": "enthalten",
+     "grenze": null,
+     "fundstelle": "MC S. 15 bis 17, A.1 Ziff. 1 und 2.2 (AVB S. 4 bis 6)"
+    },
+    "datenwiederherstellung": {
+     "wert": "eingeschlossen",
+     "einordnung": "enthalten",
+     "grenze": null,
+     "fundstelle": "MC S. 17 Z. 6 bis 27, A.1 Ziff. 2.2 (AVB S. 6)"
+    },
+    "hardware_sachschaeden": {
+     "wert": "eingeschlossen",
+     "einordnung": "enthalten",
+     "grenze": null,
+     "fundstelle": "MC S. 17, A.1 Ziff. 2.2"
+    },
+    "betriebsunterbrechung": {
+     "wert": "eingeschlossen",
+     "einordnung": "enthalten",
+     "grenze": null,
+     "fundstelle": "MC S. 18 Z. 41 bis S. 20 Z. 22, A.2 (AVB S. 7 bis 9)"
+    },
+    "bu_dienstleister_technik": {
+     "wert": "eingeschlossen",
+     "einordnung": "enthalten",
+     "grenze": null,
+     "fundstelle": "Baustein A.2, PDF S. 18 bis 19"
+    },
+    "cyber_erpressung_loesegeld": {
+     "wert": "eingeschlossen",
+     "einordnung": "enthalten",
+     "grenze": null,
+     "fundstelle": "MC S. 20 Z. 26 bis 50, A.3 (AVB S. 9)"
+    },
+    "zahlungsverkehr_social_engineering": {
+     "wert": "ausdruecklich_genannt",
+     "einordnung": "ausdrücklich geregelt",
+     "grenze": null,
+     "fundstelle": "MC S. 22 Z. 6 bis 21, A.5 (AVB S. 11)"
+    },
+    "vertrauensschaden": {
+     "wert": "eingeschlossen",
+     "einordnung": "enthalten",
+     "grenze": null,
+     "fundstelle": "MC S. 21 Z. 34 bis 58 und S. 22 Z. 18 bis 21, A.5 (AVB S. 10 bis 11)"
+    },
+    "drittschaden_haftpflicht": {
+     "wert": "eingeschlossen",
+     "einordnung": "enthalten",
+     "grenze": null,
+     "fundstelle": "MC S. 22 Z. 25 bis S. 25 Z. 23, A.6 (AVB S. 11 bis 14)"
+    },
+    "krisen_pr": {
+     "wert": "eingeschlossen",
+     "einordnung": "enthalten",
+     "grenze": null,
+     "fundstelle": "MC S. 17 Z. 48 bis 61, A.1 Ziff. 2.3 letzter Spiegelstrich und 2.4 (AVB S. 6)"
+    },
+    "benachrichtigungskosten": {
+     "wert": "eingeschlossen",
+     "einordnung": "enthalten",
+     "grenze": null,
+     "fundstelle": "MC S. 17 Z. 29 bis 47, A.1 Ziff. 2.3 (AVB S. 6)"
+    },
+    "praevention_services": {
+     "wert": "eingeschlossen",
+     "einordnung": "enthalten",
+     "grenze": null,
+     "fundstelle": "MC S. 25 Z. 27 bis S. 26 Z. 8, A.7 (AVB S. 14 bis 15)"
+    },
+    "hotline_24_7": {
+     "wert": "eingeschlossen",
+     "einordnung": "enthalten",
+     "grenze": null,
+     "fundstelle": "MC S. 16 Z. 40 bis 60, A.1 Ziff. 2.1 (AVB S. 5)"
+    }
+   }
+  }
+ ]
+}
