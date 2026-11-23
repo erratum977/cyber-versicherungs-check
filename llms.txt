@@ -5,14 +5,20 @@
 Betreiber: ENV Versicherungsmakler UG (haftungsbeschränkt), Sebastian Steinhuber, Berlin, § 34d Abs. 1 GewO.
 
 ## Inhalt
-- [Startseite](https://cyber-versicherungs-check.de/): Cyberversicherung für Unternehmen: der Check
+- [Startseite](https://cyber-versicherungs-check.de/): Lohnt sich eine Cyberversicherung für mein Unternehmen?
 - [Vergleich](https://cyber-versicherungs-check.de/vergleich/): Leistungen der Cyber-Tarife nebeneinander, je Zelle mit Fundstelle und Tarifstand
 - [Leistungen](https://cyber-versicherungs-check.de/leistung/): 13 Leistungsmerkmale, ausgewertet für 6 Tarife: AXA FirmenFlex Cyber, Baloise Cyber-Police, Continentale KuBuS Cyber, ERGO Cyber-Versicherung, Hiscox CyberClear, Markel Pro Cyber.
 - [Branchen](https://cyber-versicherungs-check.de/branche/): 36 Branchen, je Branche ausgewertet für 6 Tarife.
 
 ## Ratgeber
-- [IT-Sicherheit](https://cyber-versicherungs-check.de/it-sicherheit/): Welche IT-Sicherheit Versicherer im Antrag zur Cyberversicherung abfragen, ausgewertet aus sechs Anträgen
-- [CyberRisikoCheck](https://cyber-versicherungs-check.de/cyberrisikocheck/): CyberRisikoCheck nach DIN SPEC 27076: Ablauf laut BSI und Abgrenzung zur Cyberversicherung
+- [IT-Sicherheit](https://cyber-versicherungs-check.de/it-sicherheit/): Alle sechs ausgewerteten Anträge fragen nach mindestens wöchentlicher Datensicherung und nach Vorfällen der letzten fünf Jahre, je nach Tarif auch nach Updates, Zugängen, Zahlungsfreigaben und Schulungen
+- [CyberRisikoCheck](https://cyber-versicherungs-check.de/cyberrisikocheck/): Der CyberRisikoCheck nach DIN SPEC 27076 ersetzt keine Cyberversicherung: Er zeigt Lücken in der IT, zahlt aber keinen Schaden
+- [Kosten](https://cyber-versicherungs-check.de/cyberversicherung-kosten/): Der Beitrag einer Cyberversicherung hängt bei allen sechs ausgewerteten Tarifen von Umsatz, Versicherungssumme, Selbstbehalt und Zahlweise ab, bei vier zusätzlich von der Branche; die Fragen zur IT-Sicherheit entscheiden über die Annahme
+- [Was sie zahlt](https://cyber-versicherungs-check.de/was-zahlt-eine-cyberversicherung/): Alle sechs ausgewerteten Cyber-Tarife zahlen Soforthilfe und IT-Forensik, Datenwiederherstellung, Benachrichtigung Betroffener, Krisenkommunikation und Ansprüche Dritter; Betriebsunterbrechung, Lösegeld und manipulierte Zahlungen regelt jeder Tarif anders
+- [Versicherungssumme](https://cyber-versicherungs-check.de/cyberversicherung-versicherungssumme/): Die Summe der Cyberversicherung sollte Ertragsausfall, Wiederherstellung, Benachrichtigung Betroffener und Ansprüche Dritter nach einem schweren Vorfall tragen; sie gilt je Fall und ist je Versicherungsjahr begrenzt
+- [Pflicht](https://cyber-versicherungs-check.de/cyberversicherung-pflicht/): Kein Gesetz schreibt Unternehmen in Deutschland allgemein eine Cyberversicherung vor; Pflicht sind Schutz und Meldung nach Art. 32 und 33 DSGVO und für betroffene Einrichtungen nach BSI-Gesetz, vertraglich kann ein Auftraggeber sie verlangen
+- [CEO-Fraud](https://cyber-versicherungs-check.de/cyberversicherung-ceo-fraud/): Bei CEO-Fraud zahlt die Cyberversicherung je nach Tarif: vier von sechs ausgewerteten Tarifen enthalten den Schutz, zwei nur als Baustein; mehrere zahlen nur nach einer Sicherheitsverletzung und nicht, wenn Inhaber oder Geschäftsführer getäuscht werden
+- [Cyber oder IT-Haftpflicht](https://cyber-versicherungs-check.de/cyberversicherung-oder-it-haftpflicht/): Die Cyberversicherung zahlt nach einem Cybervorfall bei dir, die IT-Haftpflicht für Fehler in deiner IT-Leistung bei Kunden; ohne IT-Leistungen reicht von diesen beiden meist die Cyberversicherung, IT-Dienstleister brauchen in der Regel beide
 
 ## Tarife
 - [AXA FirmenFlex Cyber](https://cyber-versicherungs-check.de/tarife/axa-firmenflex-cyber/): AXA FirmenFlex Cyber (AXA Versicherung AG): Cyber-Leistungen mit Fundstelle, Tarifstand 09/2026
